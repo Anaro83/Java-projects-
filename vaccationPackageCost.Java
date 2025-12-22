@@ -8,6 +8,6 @@ public class vaccationPackagePrice{
      double activity=input.nextDouble();
      double total=
      calculateTotalCost(double accommodationCost,double mealCost,double activitiCost);
-     system.out.println("Total Vaccation Cost is:$" = total);
+     system.out.println("Total Vaccation Cost is:$" + total);
      }
 }
